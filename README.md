@@ -27,21 +27,27 @@ Este proyecto es una aplicación web para editar un archivo `products.json` que 
 1. Clona este repositorio en tu máquina local:
 
     ```sh
-    git clone https://github.com/tu-usuario/editor-de-productos.git
+    git clone https://github.com/agusdc111/editarproductosjsonweb.git
     ```
 
 2. Navega al directorio del proyecto:
 
     ```sh
-    cd editor-de-productos
+    cd editarproductosjsonweb
     ```
 
+3. Inicia npm:
+
+    ```sh
+    npm init -y
+    ```
+    
 3. Instala las dependencias necesarias:
 
     ```sh
-    npm install
+    npm install express body-parser
     ```
-
+    
 ## Uso
 
 1. Inicia el servidor:
