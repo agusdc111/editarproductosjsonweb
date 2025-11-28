@@ -1,7 +1,7 @@
 let productsData = {};
 
 function fetchProducts() {
-    fetch('/products')
+    fetch('/products.json')
         .then(response => response.json())
         .then(data => {
             productsData = data;
@@ -90,7 +90,7 @@ function addCategory() {
 }
 
 function saveProducts() {
-    fetch('/products', {
+    fetch('/products.json', {
         method: 'POST',
         headers: {
  'Content-Type': 'application/json',
