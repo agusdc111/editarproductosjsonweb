@@ -6,7 +6,6 @@ const app = express();
 const PORT = 3000;
 
 app.use(bodyParser.json());
-app.use(express.static('.')); // Servir archivos estáticos
 
 // Leer el archivo JSON
 app.get('/products', (req, res) => {
