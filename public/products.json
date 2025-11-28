@@ -1,0 +1,84 @@
+{
+  "Bebidas": [
+    [
+      "Cafe nashe",
+      3500
+    ],
+    [
+      "Cafe con leche",
+      400
+    ],
+    [
+      "Te",
+      300
+    ],
+    [
+      "Gaseosas",
+      400
+    ],
+    [
+      "Agua Caliente",
+      150
+    ]
+  ],
+  "Salado": [
+    [
+      "Empanadas (Carne, Pollo)",
+      600
+    ],
+    [
+      "Torta frita",
+      700
+    ],
+    [
+      "Tarta JyQ",
+      700
+    ],
+    [
+      "Tostado",
+      700
+    ],
+    [
+      "Chipa (1/2 docena)",
+      1200
+    ]
+  ],
+  "Dulce": [
+    [
+      "Bizcochuelo",
+      600
+    ],
+    [
+      "Budin",
+      400
+    ],
+    [
+      "Pastafrola",
+      450
+    ],
+    [
+      "Alfajores de maicena",
+      500
+    ],
+    [
+      "Tarta de coco",
+      800
+    ],
+    [
+      "Torta de ricota",
+      800
+    ],
+    [
+      "Chocotorta",
+      1000
+    ],
+    [
+      "Lemon pie",
+      1000
+    ],
+    [
+      "Alfajor de chocolate",
+      150
+    ]
+  ]
+}
